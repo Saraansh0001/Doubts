@@ -1,1 +1,4 @@
 qwertyuiop
+
+switch -c
+switch
